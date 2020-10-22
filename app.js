@@ -1,4 +1,4 @@
-var UIcontroller=(function(){
+var UIcontroller=(()=>{
     var Domstring={
         inputBtn: '.add__btn',
         inputType:'.add__type',
@@ -102,7 +102,7 @@ var UIcontroller=(function(){
   
 })();
 
-var BudgetController=(function(){
+var BudgetController=(()=>{
     var income=function(id,description,value){
             this.id=id;
             this.description=description;
