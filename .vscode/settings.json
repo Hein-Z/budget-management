@@ -1,0 +1,4 @@
+{
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.suggest.maxVisibleSuggestions": 15
+}
